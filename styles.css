@@ -1,0 +1,31 @@
+*{
+    background-color: #86af49;
+}
+
+h1{
+    text-align: center;
+    font-weight: bold;
+    background-color: #ada397;
+    border-radius: 20px;
+    background: radial-gradient(#ada397, #86af49);;
+}
+
+.destacados{
+    background-color: yellow;
+}
+
+#contacto{
+    font-style: italic;
+}
+
+.form{
+    text-align: center;
+}
+
+.form_title{
+    font-style: italic;
+}
+
+#mensaje{
+    box-shadow: 3px 3px 5px #000;
+}
